@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.bridgelabz.qa.Automation.ActiTime_Test">
+      <class name="com.bridgelabz.qa.Automation.Priority_In_TestNG">
         <methods>
-          <include name="xpath"/>
-          <include name="setUp"/>
+          <include name="watch_Notifications"/>
+          <include name="login_Facebook"/>
         </methods>
-      </class> <!-- com.bridgelabz.qa.Automation.ActiTime_Test -->
+      </class> <!-- com.bridgelabz.qa.Automation.Priority_In_TestNG -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

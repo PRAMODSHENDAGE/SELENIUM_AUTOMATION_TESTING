@@ -129,7 +129,7 @@ public class Facebook_Tests {
 			System.out.println("Home page is displayed");
 			} else {
 			System.out.println("Home page is not displayed");
-		     }
+		    }
 		driver.close();
 	}
 }
